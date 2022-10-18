@@ -8,3 +8,8 @@ This repository has several branches. Please checkout the appropriate branch for
 
 For more information on running the code:  <br>
 http://moorerobots.com/blog/post/6
+
+```
+rosrun map_server map_saver -f ~/environment/mybot_ws/src/mybot_navigation/maps/test_map
+
+```
